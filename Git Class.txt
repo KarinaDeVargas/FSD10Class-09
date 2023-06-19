@@ -1,0 +1,20 @@
+Inicializing GIT folder or project:
+
+git init
+
+// para clonar um repositorio existente no github
+git clone [url copiado do github Clone]
+
+git add (file)
+
+// Para adicionar arquivos no seu repositorio
+git add . (saves ALL) - commit all changes
+
+
+git commit -m "this is my message. Adding files for Class 04"
+git push
+
+git log - look at the log of all saved changes
+
+
+
